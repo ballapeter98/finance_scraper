@@ -1,0 +1,1 @@
+https://statisztika.mnb.hu/timeseries/hit-int-reszletes-2023-06-30.xls,data,mnb.xls
