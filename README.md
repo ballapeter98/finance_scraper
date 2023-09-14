@@ -12,7 +12,7 @@ Navigate to the <path> where you have extracted the project with cd command then
 
 ```bash
 cd <path>
-pip install -e requeirements.txt
+python -m pip install -e requirements.txt
 ```
 
 ## Usage
